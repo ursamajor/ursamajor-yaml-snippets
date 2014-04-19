@@ -1,0 +1,9 @@
+<snippet>
+    <description>new rule</description>
+    <content><![CDATA[${1:rule name}:
+	description: "${2:rule description}"
+	rule: ${3:rule's subrule}
+	args: ${4:rule args}]]></content>
+    <tabTrigger>newrule</tabTrigger>
+    <scope>source.yaml</scope>
+</snippet>

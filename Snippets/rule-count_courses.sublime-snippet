@@ -1,0 +1,8 @@
+<snippet>
+    <description></description>
+    <content><![CDATA[count_courses:
+	min: ${1:min number of courses}
+	max: ${2:max number of courses}]]></content>
+    <tabTrigger>rule: count_courses</tabTrigger>
+    <scope>source.yaml</scope>
+</snippet>

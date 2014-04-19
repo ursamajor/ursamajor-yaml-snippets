@@ -1,0 +1,7 @@
+<snippet>
+    <description></description>
+    <content><![CDATA[
+	- ${1:rule}]]></content>
+    <tabTrigger>args: same_course</tabTrigger>
+    <scope>source.yaml</scope>
+</snippet>
